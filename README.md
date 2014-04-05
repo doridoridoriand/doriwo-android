@@ -4,7 +4,6 @@
 ### 実装目標
 
 * java.net.URLを使うのをやめる
-* JSONObject、JSONArrayを使うのをやめる
 * volleyを導入
 * TextViewでひとまずJSON取得した内容を表示
 * JSONからURLを引っこ抜いてimgとか取得
